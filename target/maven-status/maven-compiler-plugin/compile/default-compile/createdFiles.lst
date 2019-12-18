@@ -1,0 +1,8 @@
+Model\PorteSortie.class
+Model\PorteEntree.class
+Model\OrdrePorteComparator.class
+Model\Voyage.class
+Model\Tarif.class
+Model\CompagnieAutoroute.class
+Model\Porte.class
+Model\Route.class
